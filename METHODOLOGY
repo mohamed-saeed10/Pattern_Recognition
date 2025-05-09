@@ -1,0 +1,4 @@
+The project utilized the Kaggle Jigsaw Toxic Comment Classification dataset,
+consisting of Wikipedia talk page comments manually labeled across six
+toxicity categories. Initial data preparation involved cleaning and
+standardizing text to enhance model learning.
